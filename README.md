@@ -11,7 +11,7 @@ A cheap alternative to the expensive WiFi modules for industrial AC mini-split i
 
 # Wire Diagram
 
-![](/home/koe/CSdev/RemoteAC/ac-web-remote/images/smol_fritzing.png)
+![](https://raw.githubusercontent.com/641i130/ac-web-remote/main/images/smol_fritzing.png)
 
 # Code
 
